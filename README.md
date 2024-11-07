@@ -58,7 +58,7 @@ The Employee Registration and Authentication System allows employees to:
 - **GET /loginForm -** Displays the login form
 - **POST /login -** Authenticates an employee
 - **GET /welcome -** Displays the welcome page upon successful login
-- **GET /database-page -** Lists all registered users (for admins)
+- **GET /database-page -** Lists all registered users
    
 
 
